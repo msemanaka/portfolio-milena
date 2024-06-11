@@ -1,4 +1,4 @@
-import { MenuSharp } from "react-ionicons"
+
 
 function Navbar() {
     return (
